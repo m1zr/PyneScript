@@ -126,6 +126,8 @@ engine = ps.Engine(data)
 engine.run(high_volatility_detector)
 ```
 
+---
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your contributions are well documented and tested.
